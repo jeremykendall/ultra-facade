@@ -1,0 +1,30 @@
+{
+    "name": "jeremykendall/ultra-facade",
+    "description": "Implements the Facade pattern to build SplIterators.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Kendall",
+            "homepage": "http://about.me/jeremykendall",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "Design Patterns",
+        "Facade",
+        "Facade Pattern",
+        "Iterators",
+        "SPL"
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "JeremyKendall\\UltraFacade\\": "src/"
+        }
+    }
+}
