@@ -45,7 +45,7 @@ class SplIteratorFacade
     );
 
     /**
-     * Utilizes Facade pattern to create an SPL Iterator
+     * Utilizes an UltraFacade to create an SPL Iterator
      *
      * @param  string                   $type    Iterator name, dropping "Iterator" from the string.
      * @param  array                    $options Used to pass required constructor args to Iterator
